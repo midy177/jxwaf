@@ -17,7 +17,7 @@ aliyun-python-sdk-core==2.13.2
 aliyun-python-sdk-ram==3.1.0
 asn1crypto==0.24.0
 cffi==1.12.3
-cryptography==2.7
+cryptography==3.2
 dateparser==0.7.1
 dnspython==1.16.0
 elasticsearch==6.4.0
