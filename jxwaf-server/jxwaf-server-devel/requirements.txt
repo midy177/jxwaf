@@ -27,7 +27,7 @@ ipaddress==1.0.22
 jmespath==0.9.4
 mysql-connector==2.2.9
 Pillow==5.0.0
-protobuf==3.8.0
+protobuf==3.18.3
 pycparser==2.19
 pycryptodome==3.8.2
 PyMySQL==0.9.2
